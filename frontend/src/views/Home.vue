@@ -6,7 +6,7 @@
       <div class="topbar-meta">
         <span class="meta-item">
           <span class="meta-dot" aria-hidden="true"></span>
-          SOCIAL SIGNAL COCKPIT
+          PUBLIC OPINION FORECAST
         </span>
         <span class="meta-divider"></span>
         <span class="meta-item meta-version">v0.1 · {{ now }}</span>
@@ -26,7 +26,7 @@
             <span class="hero-eyebrow-bar"></span>
             REAL-TIME OPINION SIMULATION
           </span>
-          <h1>社会舆情<br/><span class="hero-accent">驾驶舱</span></h1>
+          <h1>社会舆情<br/><span class="hero-accent">预测分析</span></h1>
           <p class="hero-text">
             把一段事件描述、几张背景材料丢进 VoxWave，自动抽取种子词、组织图谱节点、
             启动多智能体模拟，输出传播路径、群体情绪、观点分化、风险拐点与处置建议。
@@ -270,7 +270,7 @@
     </main>
 
     <footer class="bottom-bar">
-      <span>VOXWAVE · COCKPIT v0.1</span>
+      <span>VOXWAVE · PREDICTIVE ANALYTICS v0.1</span>
       <span class="bottom-bar-divider"></span>
       <span>舆情种子生成 · 多智能体模拟 · 风险研判</span>
       <span class="bottom-bar-divider"></span>

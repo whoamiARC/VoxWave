@@ -6,7 +6,7 @@
     </span>
     <span class="app-brand-copy">
       <strong>舆澜</strong>
-      <em>VOXWAVE · COCKPIT</em>
+      <em>VOXWAVE · PREDICTIVE</em>
     </span>
   </button>
 </template>
