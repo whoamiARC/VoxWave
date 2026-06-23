@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VoxWave">
+  <defs>
+    <linearGradient id="vwStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="vwGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0b1220"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#1e293b" stroke-width="1"/>
+  <circle cx="32" cy="32" r="22" fill="url(#vwGlow)"/>
+  <!-- Waveform -->
+  <path d="M10 36c4-8 8-8 12 0s8 8 12 0 8-8 12 0 4 6 8 4" fill="none" stroke="url(#vwStroke)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top bars -->
+  <rect x="14" y="18" width="36" height="3" rx="1.5" fill="#e2e8f0"/>
+  <rect x="14" y="25" width="22" height="3" rx="1.5" fill="#22d3ee" opacity="0.85"/>
+  <!-- Node -->
+  <circle cx="50" cy="48" r="3" fill="#a78bfa"/>
+  <circle cx="50" cy="48" r="6" fill="none" stroke="#a78bfa" stroke-opacity="0.45" stroke-width="1"/>
+</svg>
