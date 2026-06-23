@@ -58,3 +58,6 @@ backend/uploads/
 
 # Docker 数据
 data/
+
+# 未使用的静态资源（原 MiroFish 时代的封面/logo/截图，新代码没有引用）
+static/image/
